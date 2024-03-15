@@ -71,3 +71,16 @@ List of all my Replit projects/assignments
 ---Code.org UNIT 5 REVIEW Lists Loops and Traversing
 ---Code.org UNIT 6 REVIEW Algorithms
 ---Code.org UNIT 7 REVIEW Parameters & Return 
+---Lab 1 Intro To HTML 
+---Lab 2 Images
+---Lab 3 Hyperlinks
+---Lab 4 Table and colors 
+---Lab 5 Lists inside tables 
+---Lab 6 Favicon and Styling your page
+---Lab 7 Homepage
+---Learners: Make a Recipe
+---Learners: Bronze - Debug 
+---Learners: Make a Halloween Card
+---Learners: Tell A Story
+---Learners: Poster
+---Learners: Make a Robot 
