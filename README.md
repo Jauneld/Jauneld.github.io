@@ -1,5 +1,6 @@
 # Jauneld.github.io
 This file is to remind myself of what is in the repository, how teh code works and what I need to accomplish
+* = done 
 List of all my Replit projects/assignments
 ---6.1 P5 Generate Colors Dots
 ---6.3 CMU graphics
@@ -9,9 +10,9 @@ List of all my Replit projects/assignments
 ---Project 2: Room Area
 ---Project 3: Chatbot
 ---Project-Bouncing Ball
----1.0 Output-Predict, Run & Investigate 
+---1.0 Output-Predict, Run & Investigate *
 ---1.1 Output - Modify
----1.2 Outputs - Make/Jaunel Deans - 1.3 Output
+---1.2 Outputs - Make/Jaunel Deans - 1.3 Output *
 ---1.6 Variables make/Jaunel Deans - 1.6 Variables Make
 ---1.10 Input make/Jaunel Deans - 1.10 Input Make
 ---DONOW U1L11/Jaunel Deans -  DONOW U1L11
