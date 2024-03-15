@@ -63,4 +63,11 @@ List of all my Replit projects/assignments
 ---HTML-CSS_REVIEW_FILES 
 ---Project Teacher Appreciation Week
 ---Final Project Ghost School
----Code.org UNIT 1 REVIEW Digital Information 
+---Code.org UNIT 1 REVIEW Digital Information
+---Code.org UNIT 2 REVIEW The Internet
+---CongressionalAppChallenge
+---Code.org UNIT 3 REVIEW Intro to App Design 
+---Code.org UNIT 4 REVIEW Variable/Conditionals/Functions
+---Code.org UNIT 5 REVIEW Lists Loops and Traversing
+---Code.org UNIT 6 REVIEW Algorithms
+---Code.org UNIT 7 REVIEW Parameters & Return 
