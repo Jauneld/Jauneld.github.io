@@ -36,7 +36,7 @@ List of all my Replit projects/assignments
 ---3.5 Conditionals Predict and Run (IF ELSE)*
 ---3.6 Conditionals Investigate (IF ELSE)*
 ---3.7 Conditionals Modify (IF ELSE)*
----3.7 Code Practice(NOT USED)
+---3.7 Code Practice*
 ---3.8 Conditionals Make (IF ELSE)/Jaunel Deans - 3.8 Conditionals IF-ELSE Make*
 ---3.10 Conditionals Predict and Run (ELIF)*
 ---3.11 Conditionals Investigate (ELIF)*
@@ -45,43 +45,39 @@ List of all my Replit projects/assignments
 ---4.1 Iteration Predict and Run *
 ---4.2 Iteration Investigate*
 ---4.3 Iteration Modify*
----4.4 Iteration Make*---
----Business Card - Jaunel Deans---> (start here)
----Practice 10/3/23
----Simley Face by Jaunel Deans
----Sample Code - Jaunel
----Sample
----Which Room?
----6.1 p5 Generate Color Dots 
----6.3 CMU Graphics/CMU Graphics
----Project-Bouncing Ball/Bouncing Ball
----Test Ride 
+---4.4 Iteration Make*
+---Business Card - Jaunel Deans*
+---Practice 10/3/23*
+---Simley Face by Jaunel Deans*
+---Sample Code - Jaunel*
+---Sample*
+---Which Room?*
 ***Last Year***
----Web Review
----video 
----Sample Wireframe 
----Spring Capstone Project
----HTML-CSS_REVIEW_FILES 
----Project Teacher Appreciation Week
----Final Project Ghost School
----Code.org UNIT 1 REVIEW Digital Information
----Code.org UNIT 2 REVIEW The Internet
----CongressionalAppChallenge
----Code.org UNIT 3 REVIEW Intro to App Design 
----Code.org UNIT 4 REVIEW Variable/Conditionals/Functions
----Code.org UNIT 5 REVIEW Lists Loops and Traversing
----Code.org UNIT 6 REVIEW Algorithms
----Code.org UNIT 7 REVIEW Parameters & Return 
----Lab 1 Intro To HTML 
----Lab 2 Images
----Lab 3 Hyperlinks
----Lab 4 Table and colors 
----Lab 5 Lists inside tables 
----Lab 6 Favicon and Styling your page
----Lab 7 Homepage
----Learners: Make a Recipe
----Learners: Bronze - Debug 
----Learners: Make a Halloween Card
----Learners: Tell A Story
----Learners: Poster
----Learners: Make a Robot 
+---Web Review*
+---video*
+---Sample Wireframe *
+---Spring Capstone Project*
+---HTML-CSS_REVIEW_FILES*
+---Project Teacher Appreciation Week*
+---Final Project Ghost School*
+---Code.org UNIT 1 REVIEW Digital Information*
+---Code.org UNIT 2 REVIEW The Internet*
+---CongressionalAppChallenge*
+---Code.org UNIT 3 REVIEW Intro to App Design*
+---Code.org UNIT 4 REVIEW Variable/Conditionals/Functions*
+---Code.org UNIT 5 REVIEW Lists Loops and Traversing*
+---Code.org UNIT 6 REVIEW Algorithms*
+---Code.org UNIT 7 REVIEW Parameters & Return*
+---Lab 1 Intro To HTML*
+---Lab 2 Images*
+---Lab 3 Hyperlinks*
+---Lab 4 Table and colors*
+---Lab 5 Lists inside tables*
+---Lab 6 Favicon and Styling your page*
+---Lab 7 Homepage*
+---Learners: Make a Recipe*
+---Learners: Bronze - Debug*
+---Learners: Make a Halloween Card*
+---Learners: Tell A Story*
+---Learners: Poster*
+---Learners: Make a Robot*
